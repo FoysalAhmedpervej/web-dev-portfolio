@@ -144,6 +144,14 @@ main{
    
 }
 
+.skill-description{
+    font-family: "Open Sans";
+    font-size: 16px;
+    line-height: 28px;
+    border-radius: 5px;
+    box-shadow: ;
+}
+
 /* Resume section */
 .resume-container{
     display: flex;
